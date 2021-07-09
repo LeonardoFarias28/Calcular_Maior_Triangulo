@@ -1,4 +1,4 @@
-# Programação Orientada a Objetos.
+# Utilizando Programação Orientada a Objetos para calcular o maior Triangulo X ou Y.
 Introdução a Programação Orientada a Objetos com todos exercícios feitos no curso. Realizamos um projetinho básico onde tinha como objetivo ler 3 valores em x e y em seguida realizar o calculo da área e verificar qual área é maior X ou Y.
 
 # Tópicos Abordados.
